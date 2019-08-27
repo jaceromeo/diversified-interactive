@@ -9,17 +9,17 @@ body	{
 
 /***** HEADER *****/
 
-.header-section {
+.header {
 
-  font-family: ;
-  margin: ;
-  font-size: ;
-  font-weight: normal;
-  line-height: ;
-  margin: ;
-  padding: ;
-  text-align: ;
-  clear: all;
+	background-color:
+  	margin: ;
+  	font-size: ;
+  	font-weight: normal;
+  	line-height: ;
+  	margin: ;
+  	padding: ;
+  	text-align: ;
+  	clear: all;
 
 
 }
@@ -27,7 +27,31 @@ body	{
 
 /***** INTRO *****/
 
-.intro-section	{
+.intro	{
+
+	background-color:
+  	margin: ;
+  	font-size: ;
+  	font-weight: normal;
+  	line-height: ;
+  	margin: ;
+  	padding: ;
+  	text-align: ;
+  	clear: all;
+
+
+}
+
+
+#nav	{
+    float: right; 
+    padding: ;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: ;
+    color: ;
+    padding-left: ; 
 
 }
 
@@ -35,7 +59,17 @@ body	{
 
 /***** ABOUT *****/
 
-.about-section	{
+.about	{
+
+	background-color:
+  	margin: ;
+  	font-size: ;
+  	font-weight: normal;
+  	line-height: ;
+  	margin: ;
+  	padding: ;
+  	text-align: ;
+  	clear: all;
 
 }
 
@@ -45,13 +79,33 @@ body	{
 /***** WORK *****/
 
 
-.portfolio-section {
+.portfolio {
+
+	background-color:
+  	margin: ;
+  	font-size: ;
+  	font-weight: normal;
+  	line-height: ;
+  	margin: ;
+  	padding: ;
+  	text-align: ;
+  	clear: all;
 
 }
 
 
 /***** CONTACT *****/
 
-.contact-section {
+.contact {
+
+	background-color:
+  	margin: ;
+  	font-size: ;
+  	font-weight: normal;
+  	line-height: ;
+  	margin: ;
+  	padding: ;
+  	text-align: ;
+  	clear: all;
 
 }
