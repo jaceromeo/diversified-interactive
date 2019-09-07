@@ -43,12 +43,13 @@ body	{
 
 
 #nav	{  
-	float: left;
+	text-align: center;
     color: #ffffff;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 30px;
     color: #ffffff;
+    display: inline-block;
 
 }
 
@@ -57,12 +58,10 @@ body	{
 /***** ABOUT *****/
 
 .about	{
-
-	background-color: #ffffff;
-  	font-size: 30px;
+	font-size: 30px;
+	color: #ffffff;
   	font-weight: normal;
-  	text color: #122336;
-  	text-align: center ;
+  	text-align: center;
   	clear: all;
 
 }
@@ -72,17 +71,27 @@ body	{
 
 /***** PORTFOLIO *****/
 
-
-.portfolio {
-
-	background-color: #ffffff;
-  	color: #122336;
-  	text-align: center;
-  	clear: all;
-
+#roguetxt, #jubileetxt, #distractedtxt	{
+	color: #ffffff;
+	text-align: center;
+	font-size: 25px;
 }
 
+#distractedpic, #roguepic	{
+	width: 50px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
 
+#roguepic	{
+	margin-top: 200px;
+}
+
+#jubileepic	{
+	width: 60px;
+	margin-left: 300px;
+	margin-right: 120px;
+}
 
 /***** CONTACT *****/
 
@@ -93,7 +102,7 @@ body	{
   	font-size: ;
   	font-weight: normal;
   	line-height: ;
-  	margin: ;
+  	margin: 20px;
   	padding: ;
   	text-align: center;
   	clear: all;
