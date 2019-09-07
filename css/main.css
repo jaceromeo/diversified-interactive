@@ -2,33 +2,33 @@
 
 body	{
 	font-family: 'Abel', sans-serif;
-	background-color: #004d66;
+	background-color: #122336;
 }
 
 
 /***** HEADER *****/
 
 .header {
-
-	background-color: #004d66;
-  	margin: 30px;
+	 	margin: 30px;
   	font-size: 30px;
   	font-weight: normal;
-  	line-height: ;
-  	margin: ;
-  	padding: ;
   	text-align: center;
   	clear: all;
 
 
 }
 
+#nav  {  
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+}
+
 
 /***** INTRO *****/
 
 .intro	{
-
-	background-color: #004d66;
   	margin: 30px;
   	font-size: 60px;
   	color: #ffffff;
@@ -42,69 +42,67 @@ body	{
 }
 
 
-#nav	{
-    float: right; 
-    padding: ;
-    color: #ffffff;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 30px;
-    color: #ffffff;
-    padding: ; 
-
-}
-
-
-
 /***** ABOUT *****/
 
 .about	{
+	font-size: 30px;
+	color: #ffffff;
+  font-weight: normal;
+  text-align: center;
+  clear: all;
 
-	background-color: #004d66;
-  	margin-left: 30px ;
-  	font-size: 30px;
-  	font-weight: normal;
-  	line-height: ;
-  	color: #ffffff;
-  	text-align: ;
-  	clear: all;
+}
 
+.about img {
+  width: 250px;
 }
 
 
 
+/***** PORTFOLIO *****/
 
-/***** WORK *****/
-
-
-.portfolio {
-
-	background-color: #ffffff;
-  	font-weight: normal;
-  	line-height: ;
-  	padding: 30px;
-  	text-align: center;
-  	clear: all;
-
+.distracted h3, p	{
+	color: #ffffff;
+	text-align: center;
+	font-size: 25px;
 }
 
-.third-width	{
-	margin: 50px 50px 50px 50px;
+.jubilee h3, p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+}
+
+.rogue h3, p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+}
+
+.jubilee img {
+  width: 500px;
+  padding-left: 700px;
+  margin: 0 auto;
+}
+
+.distracted img {
+  width: 500px;
+  padding-left: 700px;
+  margin: 0 auto;
+}
+
+.rogue img {
+  width: 500px;
+  padding-left: 700px;
+  margin: 0 auto;
 }
 
 
 /***** CONTACT *****/
 
 .contact {
-
-	background-color: #004d66;
-  	margin: ;
-  	font-size: ;
-  	font-weight: normal;
-  	line-height: ;
-  	margin: ;
-  	padding: ;
-  	text-align: center;
+   	margin: 20px;
+    text-align: center;
   	clear: all;
 
 }
@@ -113,5 +111,6 @@ body	{
 
 .footer {
 	text-align: center;
+	color: #ffffff;
 
 }
