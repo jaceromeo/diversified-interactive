@@ -9,26 +9,26 @@ body	{
 /***** HEADER *****/
 
 .header {
-
-	background-color: #122336;
-  	margin: 30px;
+	 	margin: 30px;
   	font-size: 30px;
   	font-weight: normal;
-  	line-height: ;
-  	margin: ;
-  	padding: ;
   	text-align: center;
   	clear: all;
 
 
 }
 
+#nav  {  
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+}
+
 
 /***** INTRO *****/
 
 .intro	{
-
-	background-color: #122336;
   	margin: 30px;
   	font-size: 60px;
   	color: #ffffff;
@@ -42,69 +42,67 @@ body	{
 }
 
 
-#nav	{  
-	text-align: center;
-    color: #ffffff;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 30px;
-    color: #ffffff;
-    display: inline-block;
-
-}
-
-
-
 /***** ABOUT *****/
 
 .about	{
 	font-size: 30px;
 	color: #ffffff;
-  	font-weight: normal;
-  	text-align: center;
-  	clear: all;
+  font-weight: normal;
+  text-align: center;
+  clear: all;
 
 }
 
+.about img {
+  width: 250px;
+}
 
 
 
 /***** PORTFOLIO *****/
 
-#roguetxt, #jubileetxt, #distractedtxt	{
+.distracted h3, p	{
 	color: #ffffff;
 	text-align: center;
 	font-size: 25px;
 }
 
-#distractedpic, #roguepic	{
-	width: 50px;
-	margin-left: 300px;
-	margin-right: 300px;
+.jubilee h3, p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
 }
 
-#roguepic	{
-	margin-top: 200px;
+.rogue h3, p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
 }
 
-#jubileepic	{
-	width: 60px;
-	margin-left: 300px;
-	margin-right: 120px;
+.jubilee img {
+  width: 500px;
+  padding-left: 700px;
+  margin: 0 auto;
 }
+
+.distracted img {
+  width: 500px;
+  padding-left: 700px;
+  margin: 0 auto;
+}
+
+.rogue img {
+  width: 500px;
+  padding-left: 700px;
+  margin: 0 auto;
+}
+
 
 /***** CONTACT *****/
 
 .contact {
-
-	background-color: #122336;
-  	margin: ;
-  	font-size: ;
-  	font-weight: normal;
-  	line-height: ;
-  	margin: 20px;
-  	padding: ;
-  	text-align: center;
+   	margin: 20px;
+    text-align: center;
   	clear: all;
 
 }
