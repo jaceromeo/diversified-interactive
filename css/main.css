@@ -54,7 +54,6 @@ nav ul li a {
   font-weight: normal;
   text-align: center;
   clear: all;
-
 }
 
 .about img {
@@ -92,16 +91,19 @@ nav ul li a {
 
 .jubilee img {
   width: 500px;
+  padding-left: 700px;
   margin: 0 auto;
 }
 
 .distracted img {
   width: 500px;
+  padding-left: 700px;
   margin: 0 auto;
 }
 
 .rogue img {
   width: 500px;
+  padding-left: 700px;
   margin: 0 auto;
 }
 
