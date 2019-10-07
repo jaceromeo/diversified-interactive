@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+body 	{
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	color: #ffffff;
+  	font-family: 'Open Sans', sans-serif;
+  	font-size: 16px;
+}
+
+.stats	{
+	clear: all;
+}
+
+#admin		{
+	margin-left: 5px;
+	clear: all;
+}
+
+
+#end	{
+	margin-left: 5px;
+	clear: all;
+}
+
+#tips	{
+	margin-left: 5px;
+	clear: all; 
+}
+
+footer	{
+	font-family: 'Anton', sans-serif;
+	color: #ffffff;
+	margin-left: 5px;
+	clear: all;
+}
+
